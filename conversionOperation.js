@@ -6,6 +6,11 @@ value=String(value)
 
 //console.log(typeof value)
 
+
+let num="33abc"
+num=Number(num)
+console.log(typeof num)
+console.log(num)
 //let name="Karishma"
 let name=""
 name=Boolean(name)
