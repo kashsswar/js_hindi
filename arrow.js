@@ -43,16 +43,16 @@ chai()
 
 //function declare karne k tarike
 
-const addTwo(num1,num2){
-    return num1 + num2
-}
+// const addTwo(num1,num2){
+//     return num1 + num2
+// }
 
-const addTwo = (num1,num2) => {
-    return num1 + num2
-}
-//return hai to braces {} lagana padega nahi to parentheses lagega
-const addTwo = (num1,num2) => (num1 + num2)
+// const addTwo = (num1,num2) => {
+//     return num1 + num2
+// }
+// //return hai to braces {} lagana padega nahi to parentheses lagega
+// const addTwo = (num1,num2) => (num1 + num2)             //implicit scope but ek hi line mein hona chahiye
 
-//jab object declare karenge tab
+// //jab object declare karenge tab
 
-const addTwo = (num1,num2) => {username:"KArishma"})
+const addTwo = (num1,num2) => ({username:"KArishma"})
