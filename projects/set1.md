@@ -1,5 +1,7 @@
 # Projects related to DOM
 
+# Color Changer
+
 ## project link
 
 [Click here](https://stackblitz.com/~/github.com/kashsswar/js_hindi?file=projects/set1)
